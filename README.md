@@ -3,17 +3,17 @@
 JAVA Spring Boot REST API Test interview for the KCB Bank Group
 
 
-Endpoints:
+1. Endpoints:
 
-Accounts model:
+a) Accounts model:
 /saveaccount,
 /getaccount,
 /deleteaccount
 
-Cards model:
+b) Cards model:
 /savecard,
 /getcard,
 /deletecard
 
-Hosts Allowed access to API from external via crossorigin in controller:
+2. Hosts Allowed access to API from external via crossorigin in controller:
 http://localhost:3000
