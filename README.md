@@ -1,3 +1,3 @@
 # voomaapp
 
-JAVA Test interview for the KCB Bank Group
+JAVA Spring Boot Test interview for the KCB Bank Group
