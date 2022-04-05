@@ -6,6 +6,7 @@ JAVA Spring Boot REST API Test interview for the KCB Bank Group
 1. Endpoints:
 
 a) Accounts model:
+
 i)   /saveaccount
 ii)  /getaccount
 iii) /deleteaccount
