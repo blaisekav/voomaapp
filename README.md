@@ -7,9 +7,11 @@ JAVA Spring Boot REST API Test interview for the KCB Bank Group
 
 a) Accounts model:
 
-i)   /saveaccount
-ii)  /getaccount
-iii) /deleteaccount
+   /saveaccount
+   
+   /getaccount
+   
+   /deleteaccount
 
 b) Cards model:
 i)   /savecard
