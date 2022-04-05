@@ -2,7 +2,8 @@
 
 JAVA Spring Boot REST API Test interview for the KCB Bank Group
 
-**Endpoints:
+
+<b>Endpoints</b>:
 
 a) Accounts model:
 
@@ -19,6 +20,7 @@ b) Cards model:
    /getcard
    
    /deletecard
+
 
 **Cross Origin API Request:
 
