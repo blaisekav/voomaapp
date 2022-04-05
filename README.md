@@ -14,9 +14,13 @@ a) Accounts model:
    /deleteaccount
 
 b) Cards model:
-i)   /savecard
-ii)  /getcard
-iii) /deletecard
+
+   /savecard
+   
+   /getcard
+   
+   /deletecard
 
 2. Hosts Allowed access to REST API from external via crossorigin in controller:
-i) http://localhost:3000
+
+   http://localhost:3000
