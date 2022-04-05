@@ -14,3 +14,6 @@ Cards model:
 /savecard,
 /getcard,
 /deletecard
+
+Hosts Allowed access to API from external via crossorigin in controller:
+http://localhost:3000
