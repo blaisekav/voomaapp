@@ -22,7 +22,7 @@ b) Cards model:
    /deletecard
 
 
-**Cross Origin API Request:
+<b>Cross Origin API Request:</b>
 
    Hosts Allowed access to REST API from external via crossorigin in controller:
 
